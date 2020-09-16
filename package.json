@@ -1,0 +1,29 @@
+{
+  "name": "tor_exit_data_analysis",
+  "version": "1.0.0",
+  "description": "performs data analytics on data from tor exit realys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algo7/tor_exit_data_analysis.git"
+  },
+  "keywords": [
+    "tor",
+    "deepweb",
+    "node",
+    "data",
+    "data",
+    "analytics",
+    "exit",
+    "relay"
+  ],
+  "author": "Aviv Lo",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/algo7/tor_exit_data_analysis/issues"
+  },
+  "homepage": "https://github.com/algo7/tor_exit_data_analysis#readme"
+}
