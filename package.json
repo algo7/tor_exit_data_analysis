@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/algo7/tor_exit_data_analysis/issues"
   },
-  "homepage": "https://github.com/algo7/tor_exit_data_analysis#readme"
+  "homepage": "https://github.com/algo7/tor_exit_data_analysis#readme",
+  "dependencies": {
+    "eslint": "^7.9.0"
+  }
 }
